@@ -12,9 +12,8 @@ This repository contains an analysis and predictive modeling project for an onli
 - [Modeling](#modeling)  
 - [Usage](#usage)  
 - [Results](#results)  
-- [Installation](#installation)  
 - [Contributing](#contributing)  
-- [License](#license)  
+ 
 
 ## Project Overview  
 
