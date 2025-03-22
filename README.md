@@ -1,6 +1,6 @@
 ---
 
-# E-Commerce Customer Behavior Analysis  
+# StyleSync: Predictive Analytics for Fashion Retail
 
 This repository contains an analysis and predictive modeling project for an online clothing store that offers in-store styling and clothing advice sessions. The goal is to determine whether the company should focus more on its **mobile app experience** or **website** based on customer purchasing behavior.  
 
